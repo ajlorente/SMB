@@ -1,6 +1,6 @@
 {
-	"name"             : "icewind/smb",
-	"description"      : "php wrapper for smbclient and libsmbclient-php",
+	"name"             : "ajlorente/smbclient",
+	"description"      : "php wrapper for smbclient and libsmbclient-php forked by icewind1991",
 	"license"          : "MIT",
 	"authors"          : [
 		{
